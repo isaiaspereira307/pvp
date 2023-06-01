@@ -1,0 +1,11 @@
+[
+    {
+        "id":1,
+        "descricao":"Academia",
+        "valor":105.76,
+        "operacao":"Despesa",
+        "tipo":"ValorFixo",
+        "mes":5,
+        "categoria":"Saude"
+    }
+]

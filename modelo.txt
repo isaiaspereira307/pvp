@@ -1,0 +1,66 @@
+Tabelas : Lista
+
+Categorias:
+CategoriaGeral
+SubCategoria
+CategoriaAfetiva
+
+Item
+Area
+CategoriaGeral
+SubCategoria
+CategoriaAfetiva
+Como estou?
+Comoqueroesta
+O que farei
+Qando farei
+
+Limites : Lista
+    Familia : Lista[dict[str,str]]
+    Social
+    Trabalho
+    Financeiro
+    Vida de Oração
+    Afetividade
+        Humor
+        Emoções
+        Sentimentos
+        Afetos
+        Paixões
+Fraquezas
+    Familia
+    Social
+    Trabalho
+    Financeiro
+    Vida de Oração
+    Afetividade
+        Humor
+        Emoções
+        Sentimentos
+        Afetos
+        Paixões
+Necessidades
+    Familia
+    Social
+    Trabalho
+    Financeiro
+    Vida de Oração
+    Afetividade
+        Humor
+        Emoções
+        Sentimentos
+        Afetos
+        Paixões
+Carencias
+    Familia
+    Social
+    Trabalho
+    Financeiro
+    Vida de Oração
+    Afetividade
+        Humor
+        Emoções
+        Sentimentos
+        Afetos
+        Paixões
+Objetivos : Lista dic[str,str]

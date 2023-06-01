@@ -1,0 +1,63 @@
+[
+    "Limites" [
+        "Familia" [
+            {"teste"[
+                {"teste":"teste"},
+            ]}
+        ],
+        "Social",
+        "Trabalho",
+        "Financeiro",
+        "Vida de Oração",
+        "Afetividade" [
+            "Humor",
+            "Emoções",
+            "Sentimentos",
+            "Afetos",
+            "Paixões"
+        ]
+    ],
+    "Fraquezas" [
+        "Familia"[{"":""}],
+        "Social",
+        "Trabalho",
+        "Financeiro",
+        "Vida de Oração",
+        "Afetividade" [
+            "Humor",
+            "Emoções",
+            "Sentimentos",
+            "Afetos",
+            "Paixões"
+        ]
+    ],
+    "Necessidades" [
+        "Familia"[{"":""}],
+        "Social",
+        "Trabalho",
+        "Financeiro",
+        "Vida de Oração",
+        "Afetividade" [
+            "Humor",
+            "Emoções",
+            "Sentimentos",
+            "Afetos",
+            "Paixões"
+        ]
+    ],
+    "Carencias" [
+        "Familia"[{"":""}],
+        "Social",
+        "Trabalho",
+        "Financeiro",
+        "Vida de Oração",
+        "Afetividade" [
+            "Humor",
+            "Emoções",
+            "Sentimentos",
+            "Afetos",
+            "Paixões"
+        ]
+    ],
+    "Objetivos" [{"":""}]
+]
